@@ -1,0 +1,34 @@
+body{
+    border: none;
+    max-width: 600px;
+font-family: arial;
+font-size: 12;
+padding: 2px;
+
+}
+table{
+   background-color:  #C7E7F3;
+}
+.titulo{
+background-color: #0d5188;
+color: white;
+}
+
+.medio{
+ background-color:#66C5E3 ;
+}
+
+.cidade{
+    color:#0d5188;
+    font-weight: bold
+}
+
+.posicao{
+color: rgb(rgb(250, 250, 250), green, blue);
+background-color:  #d3d3d3;
+text-align: center;
+}
+
+.alinhar{
+    text-align: left;
+}
