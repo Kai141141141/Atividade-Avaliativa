@@ -1,0 +1,10 @@
+.titulosite{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.titulonoticia{
+    font-size: 24px;
+    text-decoration: underline;
+}
